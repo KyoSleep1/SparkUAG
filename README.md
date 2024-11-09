@@ -1,4 +1,5 @@
 **Proyecto de Estacionamiento UAG - Spark**
+# Tech stack: Tauri + React + Typescript
 
 **Integrantes:**
 - Luis Mario Rochín Angulo
@@ -29,6 +30,5 @@ El propósito de este proyecto es desarrollar un sistema de estacionamientos int
         Si el programa detecta que estás logueado, la pantalla de inicio debe salir, donde tendrás distintas opciones en las cual moverte,
         podrás ver tus estacionamientos reservados al lado derecho (max 1 por cuenta), podrás ver los estacionamientos disponibles registrados en el centro
         y ariba una barra en la cual te dirá en que sección estas, además de añadir nombre de la sección, arriba a la derecha podrás ver tu saldo junto a un botón de (+). A su vez deberá haber un botón de perfil donde podrás dar de baja tu cuenta, información y opciones de cambio de contraseña.
-
 
 
